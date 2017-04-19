@@ -30,8 +30,26 @@ body {
   margin-left: 35px;
 }
 
+section {
+  padding: 40px 0;
+}
+
 #middle .demo {
   width: 100%;
   padding: 3px;
   border: 1px solid #ccc;
+}
+
+#feature {
+  background: #1caa98;
+  color: white;
+  padding: 40px;
+  overflow: auto;
+}
+
+#feature li {
+  font-size: 22px;
+  list-style: none;
+  line-height: 2.0em;
+  
 }
