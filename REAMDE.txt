@@ -1,0 +1,14 @@
+Project 1 - Photo App Website
+
+Description & Features
+
+Bootstrap Navigation
+Jumbotron
+Accordion Menu
+Grid System
+Image classes
+Button classes
+Glyphicons
+Contact form
+Footer
+Responsive Media queries
