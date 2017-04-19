@@ -5,6 +5,13 @@ body {
   color: #1cee98 !important;
 }
 
+.jumbotron {
+  background: url('../img/site_showcase_bg.jpg') no-repeat top center;
+  color: white;
+  height: 598px;
+  overflow: none;
+}
+
 .jumbotron .app-btn {
   width: 40%;
   margin-right: 20px;
