@@ -20,7 +20,7 @@ body {
   margin-bottom: 40px;
 }
 
-.jumbotron .app-btn {
+.jumbotron img .app-btn {
   width: 40%;
   margin-right: 20px;
 }
@@ -28,5 +28,10 @@ body {
 .jumbotron .showcase-img {
   width: 61.5%;
   margin-left: 35px;
+}
 
+#middle .demo {
+  width: 100%;
+  padding: 3px;
+  border: 1px solid #ccc;
 }
